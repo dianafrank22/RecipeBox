@@ -1,0 +1,24 @@
+{
+  "name": "recipe_box",
+  "version": "1.0.0",
+  "description": "Recipe box for users to search, save, and rate recipes",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dianafrank22/recipeBox.git"
+  },
+  "author": "Diana Frank",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dianafrank22/recipeBox/issues"
+  },
+  "homepage": "https://github.com/dianafrank22/recipeBox#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "pg-promise": "^5.2.7"
+  }
+}
