@@ -19,6 +19,9 @@
   "homepage": "https://github.com/dianafrank22/recipeBox#readme",
   "dependencies": {
     "body-parser": "^1.15.2",
-    "pg-promise": "^5.2.7"
+    "pg-promise": "^5.2.7",
+    "dotenv": "^2.0.0",
+    "express": "^4.14.0",
+    "path": "^0.12.7"
   }
 }
